@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site \n 41023202梁琇婷 \n 41023242廖旭宏 \n https://github.com/mdecd2023/2b-pj1bg12 \n 影片 \n \n  接下來將 mp4 檔案從 downloads 目錄取出  \n \n', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site \n 41023202梁琇婷 \n 41023242廖旭宏 \n https://github.com/mdecd2023/2b-pj1bg12 \n', 'tags': '', 'url': 'About.html'}, {'title': 'tutorial1', 'text': '\n \n', 'tags': '', 'url': 'tutorial1.html'}]};
